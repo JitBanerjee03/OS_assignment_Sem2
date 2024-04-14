@@ -1,1 +1,1 @@
-# OS_assignment_Sem2
+# This reposotory is dedicated to my OS College assignments
